@@ -630,11 +630,10 @@
 .u-section-5 .u-list-1 {
   margin-bottom: 39px;
   margin-top: 39px;
-  min-height: 242px;
 }
 
 .u-section-5 .u-repeater-1 {
-  min-height: 243px;
+  min-height: 242px;
   grid-auto-columns: calc(33.3333% - 6.66667px);
   grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
   grid-gap: 10px 10px;
@@ -826,10 +825,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-5 .u-list-1 {
-    min-height: 299px;
-  }
-
   .u-section-5 .u-repeater-1 {
     grid-auto-columns: calc(33.333333333333336% - 6.66667px);
     grid-template-columns: repeat(3, calc(33.333333333333336% - 6.66667px));
@@ -1233,7 +1228,6 @@
 
   .u-section-5 .u-list-1 {
     margin-bottom: 60px;
-    min-height: 262px;
   }
 
   .u-section-5 .u-repeater-1 {
@@ -1468,7 +1462,7 @@
 .u-section-7 .u-image-1 {
   width: 180px;
   height: 180px;
-  background-image: url("images/768px-Flag_of_None_square.svg.png");
+  background-image: url("images/WhatsAppImage2022-03-24at12.09.53.jpeg");
   background-position: 50% 50%;
   margin: -36px auto 0;
 }
@@ -1481,7 +1475,7 @@
 
 .u-section-7 .u-text-3 {
   font-size: 0.875rem;
-  margin: 8px auto 0;
+  margin: 11px auto 0;
 }
 
 .u-section-7 .u-container-layout-2 {
@@ -1491,7 +1485,7 @@
 .u-section-7 .u-image-2 {
   width: 180px;
   height: 180px;
-  background-image: url("images/768px-Flag_of_None_square.svg-84.png");
+  background-image: url("images/768px-Flag_of_None_square.svg.png");
   background-position: 50% 50%;
   margin: -36px auto 0;
 }
@@ -1504,7 +1498,7 @@
 
 .u-section-7 .u-text-5 {
   font-size: 0.875rem;
-  margin: 8px auto 0;
+  margin: 11px auto 0;
 }
 
 .u-section-7 .u-container-layout-3 {
@@ -1528,7 +1522,7 @@
 
 .u-section-7 .u-text-7 {
   font-size: 0.875rem;
-  margin: 8px auto 0;
+  margin: 11px auto 0;
 }
 
 .u-section-7 .u-container-layout-4 {
@@ -1552,7 +1546,7 @@
 
 .u-section-7 .u-text-9 {
   font-size: 0.875rem;
-  margin: 8px auto 0;
+  margin: 11px auto 0;
 }
 
 .u-section-7 .u-container-layout-5 {
@@ -1576,7 +1570,7 @@
 
 .u-section-7 .u-text-11 {
   font-size: 0.875rem;
-  margin: 8px auto 0;
+  margin: 11px auto 0;
 }
 
 .u-section-7 .u-container-layout-6 {
@@ -1600,7 +1594,7 @@
 
 .u-section-7 .u-text-13 {
   font-size: 0.875rem;
-  margin: 8px auto 0;
+  margin: 11px auto 0;
 }
 
 @media (max-width: 1199px) {
